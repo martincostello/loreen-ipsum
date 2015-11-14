@@ -62,3 +62,8 @@ Usage:
     loreen.type = Loreen.TEXT;
     loreen.query = '2p';
     loreen.createLoreen(document.getElementById('loreen'));
+
+Inspiration
+-----------
+
+[![Euphoria](https://img.youtube.com/vi/t5qURKt4maw/0.jpg)](https://www.youtube.com/watch?v=t5qURKt4maw "Euphoria")
