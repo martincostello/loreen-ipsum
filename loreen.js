@@ -18,21 +18,21 @@ var Loreen;
     };
     //Words to create euphoric text.
     Loreen.WORDS = [
-        "Why", "Why", "can't", "this", "moment", "last", "forever", "more", "Tonight", "Tonight", "eternity's",
-        "an", "open", "door", "No", "Don't", "ever", "stop", "doing", "the", "things", "you", "do", "Don't",
-        "go", "In", "every", "breath", "I", "take", "I'm", "breathing", "you", "Euphoria", "Forever", "'til",
-        "the", "end", "of", "time", "From", "now", "on", "only", "you", "and", "I", "We're", "going",
-        "u-u-u-u-u-u-up", "Euphoria", "An", "everlasting", "piece", "of", "art", "A", "beating", "love",
-        "within", "my", "heart", "We're", "going", "u-u-u-u-u-u-up", "We", "are", "here", "We", "are", "alone",
-        "in", "our", "own", "universe", "We", "are", "free", "Where", "everything's", "aloud", "and", "love",
-        "comes", "first", "Forever", "and", "ever", "together", "We", "sail", "into", "infinity", "We're",
-        "higher", "and", "higher", "and", "higher", "We're", "reaching", "for", "divinity", "Euphoria", "Forever",
-        "'til", "the", "end", "of", "time", "From", "now", "on", "only", "you", "and", "I", "We're", "going",
-        "u-u-u-u-u-u-up", "Euphoria", "An", "everlasting", "piece", "of", "art", "A", "beating", "love", "within",
-        "my", "heart", "We're", "going", "u-u-u-u-u-u-up", "Forever", "We", "sail", "into", "infinity", "We're",
-        "higher", "We're", "reaching", "for", "divinity", "Euphoria", "Euphoria", "We're", "going", "u-u-u-u-u-u-up",
-        "Euphoria", "An", "everlasting", "piece", "of", "art", "A", "beating", "love", "within", "my", "heart",
-        "We're", "going", "u-u-u-u-u-u-up", "Euphoria", "Euphoria", "We're", "going", "u-u-u-u-u-u-up"
+        "why", "why", "can't", "this", "moment", "last", "forever", "more", "tonight", "tonight", "eternity's",
+        "an", "open", "door", "no", "don't", "ever", "stop", "doing", "the", "things", "you", "do", "don't",
+        "go", "in", "every", "breath", "I", "take", "I'm", "breathing", "you", "euphoria", "forever", "'til",
+        "the", "end", "of", "time", "from", "now", "on", "only", "you", "and", "I", "we're", "going",
+        "u-u-u-u-u-u-up", "euphoria", "an", "everlasting", "piece", "of", "art", "a", "beating", "love",
+        "within", "my", "heart", "we're", "going", "u-u-u-u-u-u-up", "we", "are", "here", "we", "are", "alone",
+        "in", "our", "own", "universe", "we", "are", "free", "where", "everything's", "aloud", "and", "love",
+        "comes", "first", "forever", "and", "ever", "together", "we", "sail", "into", "infinity", "we're",
+        "higher", "and", "higher", "and", "higher", "we're", "reaching", "for", "divinity", "euphoria", "forever",
+        "'til", "the", "end", "of", "time", "from", "now", "on", "only", "you", "and", "I", "we're", "going",
+        "u-u-u-u-u-u-up", "euphoria", "an", "everlasting", "piece", "of", "art", "a", "beating", "love", "within",
+        "my", "heart", "we're", "going", "u-u-u-u-u-u-up", "forever", "we", "sail", "into", "infinity", "we're",
+        "higher", "we're", "reaching", "for", "divinity", "euphoria", "euphoria", "we're", "going", "u-u-u-u-u-u-up",
+        "euphoria", "an", "everlasting", "piece", "of", "art", "a", "beating", "love", "within", "my", "heart",
+        "we're", "going", "u-u-u-u-u-u-up", "euphoria", "euphoria", "we're", "going", "u-u-u-u-u-u-up"
     ];
     //random integer method.
     Loreen.prototype.randomInt = function (min, max) {
